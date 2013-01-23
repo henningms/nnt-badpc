@@ -23,3 +23,9 @@ Ved første oppstart vil du bli bedt om å finne fram til .exe filen til avspiller
 Resten kan du vel finne ut av selv; du velger en ønsket oppløsning (rangert best til verst) og trykker "SPILL AV".
 
 ![Skjermbilde](http://www.m0sand.com/nnt-badpc/releases/1.0/nnt-badpc-v1.jpg)
+
+
+Obs!
+====
+
+Vær oppmerksom på at koden som er skrevet ikke er av særlig høy kvalitet, og har lite til ingen feilhåndtering i det store og hele. Så bruk det riktig! ;)
